@@ -7,7 +7,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 
-	<title> Index :: Elevator </title>
+	<title>ISeB</title>
 	<meta name="description" content=" add description  ... ">
 
     <!-- /// Favicons ////////  -->
@@ -278,156 +278,11 @@
 
                 	<ul>
                     	<li data-transition="fade">
-
-                            <img src="content/index/slider/1920x690-1.jpg"  alt="">
-
-                            <div class="tp-caption subtitle-2"
-                                 data-x="center"
-                                 data-y="180"
-                                 data-start="1000"
-                                 data-transform_in="y:-100px;opacity:0;s:700;"
-                                 data-transform_out="y:-100px;opacity:0;s:700;">
-                                 Do you like it?
-                            </div>
-
-                            <div class="tp-caption subtitle"
-                                 data-x="center"
-                                 data-y="245"
-                                 data-start="1500"
-                                 data-transform_in="y:-100px;opacity:0;s:700;"
-                                 data-transform_out="y:-100px;opacity:0;s:700;">
-                                 Spread the word
-                            </div>
-
-                            <div class="tp-caption title"
-                                 data-x="center"
-                                 data-y="310"
-                                 data-start="2000"
-                                 data-transform_in="y:-100px;opacity:0;s:700;"
-                                 data-transform_out="y:-100px;opacity:0;s:700;">
-                                 Elevate Your Business
-                            </div>
-
-                            <div class="tp-caption"
-                                 data-x="center"
-                                 data-y="465"
-                                 data-start="2500"
-                                 data-transform_in="y:100px;opacity:0;s:700;"
-                                 data-transform_out="y:100px;opacity:0;s:700;">
-                                 <a class="btn" href="#">Buy it now</a>
-                                 <a class="btn" href="#">See all the features</a>
-                            </div>
-
-                        </li>
-                        <li data-transition="fade">
-
-                            <img src="content/index/slider/1920x690-2.jpg"  alt="">
-
-                            <div class="tp-caption"
-                                 data-x="right"
-                                 data-hoffset="120"
-                                 data-y="40"
-                                 data-start="1000"
-                                 data-transform_in="x:-300px;y:-300px;sX:0;sY:0;opacity:0;s:700;"
-                                 data-transform_out="x:-300px;y:-300px;sX:0;sY:0;opacity:0;s:700;">
-                                 <img src="content/index/slider/slide-2-p1.png" alt="">
-                            </div>
-
-                            <div class="tp-caption"
-                                 data-x="right"
-                                 data-hoffset="-60"
-                                 data-y="120"
-                                 data-start="1500"
-                                 data-transform_in="x:-300px;y:-300px;sX:0;sY:0;opacity:0;s:700;"
-                                 data-transform_out="x:-300px;y:-300px;sX:0;sY:0;opacity:0;s:700;">
-                                 <img src="content/index/slider/slide-2-p2.png" alt="">
-                            </div>
-
-                            <div class="tp-caption title-2"
-                                 data-x="30"
-                                 data-y="255"
-                                 data-start="2000"
-                                 data-transform_in="x:-100px;opacity:0;s:700;"
-                                 data-transform_out="x:-100px;opacity:0;s:700;">
-                                 Take it to the next level
-                            </div>
-
-                            <div class="tp-caption text"
-                                 data-x="30"
-                                 data-y="310"
-                                 data-start="2500"
-                                 data-transform_in="x:-100px;opacity:0;s:700;"
-                                 data-transform_out="x:-100px;opacity:0;s:700;">
-                                 Viam vitae posuere nulla, iaculis laoreet ligula. Curabitur cursus est turpis, <br>
-                                 vel elementum ante vehicula et.
-                            </div>
-
-                            <div class="tp-caption"
-                                 data-x="30"
-                                 data-y="390"
-                                 data-start="3000"
-                                 data-transform_in="y:100px;opacity:0;s:700;"
-                                 data-transform_out="y:100px;opacity:0;s:700;">
-                                 <a class="btn" href="#">Buy it now</a>
-                                 <a class="btn" href="#">See all the features</a>
-                            </div>
-
-                        </li>
-                        <li data-transition="fade">
-
-                            <img src="content/index/slider/1920x690-3.jpg"  alt="">
-
-                            <div class="tp-caption"
-                                 data-x="30"
-                                 data-y="bottom"
-                                 data-start="1000"
-                                 data-transform_in="x:-100px;opacity:0;s:700;"
-                                 data-transform_out="x:-100px;opacity:0;s:700;">
-                                 <img src="content/index/slider/slide-3-p1.png" alt="">
-                            </div>
-
-                            <div class="tp-caption subtitle-2"
-                                 data-x="right"
-                                 data-hoffset="30"
-                                 data-y="210"
-                                 data-start="1500"
-                                 data-transform_in="x:100px;opacity:0;s:700;"
-                                 data-transform_out="x:100px;opacity:0;s:700;">
-                                 Do you like it?
-                            </div>
-
-                            <div class="tp-caption title-3"
-                                 data-x="right"
-                                 data-hoffset="30"
-                                 data-y="270"
-                                 data-start="2000"
-                                 data-transform_in="x:100px;opacity:0;s:700;"
-                                 data-transform_out="x:100px;opacity:0;s:700;">
-                                 Elevate Your Business
-                            </div>
-
-                            <div class="tp-caption text-2 text-right"
-                                 data-x="right"
-                                 data-hoffset="30"
-                                 data-y="330"
-                                 data-start="2500"
-                                 data-transform_in="x:100px;opacity:0;s:700;"
-                                 data-transform_out="x:100px;opacity:0;s:700;">
-                                 Proin placerat congue nibh, et porta turpis sagittis et. Sed lacinia massa non placerat eleif end. <br>
-								 Donec mauris justo, euismod hendrerit commodo ut, mollis vel est.
-                            </div>
-
-                            <div class="tp-caption"
-                                 data-x="right"
-                                 data-hoffset="30"
-                                 data-y="420"
-                                 data-start="3000"
-                                 data-transform_in="y:100px;opacity:0;s:700;"
-                                 data-transform_out="y:100px;opacity:0;s:700;">
-                                 <a class="btn" href="#">See all the features</a>
-                            </div>
-
-                        </li>
+                        <img src="content/index/slider/image_1.png" width="1920" height="690">
+                      </li>
+                    	<li data-transition="fade">
+                        <img src="content/index/slider/image_2.png" width="1920" height="690">
+                      </li>
                     </ul>
 
                 </div><!-- end .rev_slider -->
@@ -1812,7 +1667,7 @@
 
     <!-- /// Revolution Slider ////////  -->
     <script src="assets/vendors/revolutionslider/js/jquery.themepunch.tools.min.js"></script>
-    <script src="assets/vendors/revolutionslider/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="assets/vendors/revolutionslider/js/source/jquery.themepunch.revolution.js"></script>
 	<script src="assets/vendors/revolutionslider/js/extensions/revolution.extension.actions.min.js"></script>
 	<script src="assets/vendors/revolutionslider/js/extensions/revolution.extension.carousel.min.js"></script>
 	<script src="assets/vendors/revolutionslider/js/extensions/revolution.extension.kenburn.min.js"></script>
