@@ -7,11 +7,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 
-	<title>ISeB</title>
+	<title>Edvantez</title>
 	<meta name="description" content=" add description  ... ">
 
-    <!-- /// Favicons ////////  -->
-    <link rel="shortcut icon" href="favicon.png">
+
 	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 	<meta name="msapplication-TileColor" content="#85c334">
 	<meta name="msapplication-TileImage" content="mstile.png">
