@@ -10,7 +10,7 @@
 	<title>Edvantez</title>
 	<meta name="description" content=" add description  ... ">
 
-
+	<link rel="icon" href="assets/images/favicon.ico">
 	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 	<meta name="msapplication-TileColor" content="#85c334">
 	<meta name="msapplication-TileImage" content="mstile.png">
